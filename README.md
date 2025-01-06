@@ -1,4 +1,17 @@
-run devThis is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### AI Video Generator
+
+The AI Video Generator is a cutting-edge application designed to create personalized short videos using advanced AI technologies. Built with **Next.js** and **React**, it offers a dynamic, scalable, and user-friendly interface. Key integrations include:
+
+- **Google Cloud AI**: Text-to-speech and generative AI capabilities.
+- **Remotion**: Programmatic video rendering.
+- **PayPal**: Seamless payment processing.
+- **AssemblyAI**: Speech-to-text functionality.
+- **Firebase**: Real-time database and authentication.
+- **Tailwind CSS**: Modern, responsive UI design.
+
+
+This project combines powerful tools to deliver efficient, AI-driven video generation, making it ideal for content creators and businesses.
+
 
 ## Getting Started
 
