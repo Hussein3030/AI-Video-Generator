@@ -82,7 +82,7 @@ function BuyCredits() {
             {Options.map((option, index) => (
                 <div className={`p-6 my-3 border bg-primary text-center rounded-lg text-white 
                 cursor-pointer hover:scale-105 transition-all
-                 ${selectOption == option.id ? 'bg-blue-400' : 'initial'}
+                 ${selectOption == option.id ? 'bg-blue-500' : 'initial'}
                 `}
                      onClick={() => {
                        setSelectOption(option.id);
